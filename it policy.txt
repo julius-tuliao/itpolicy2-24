@@ -5,3 +5,30 @@ Password Format
 -min: 8 char max:20 char
 -cyclical password prohibited
 -dont remember password
+
+
+software policy
+-downloading application in the office
+-copying transfer,disclosing of software is prohibited
+-games is prohibited
+
+-permission is required to access confidential info
+-always shred documents containing confidential info
+-never lend computers containing confidential info to others
+-all files emailed must be encrypted
+
+users must not disclose system vulnerability
+
+
+network access policy
+-browsing of sites not related to  work is prohibited
+
+Email Policy
+-All emails must include signature
+-peronal emails is prohibited
+-Set email retention
+
+Exchange of information over the internet
+-messaging of confidential information through chat
+
+
