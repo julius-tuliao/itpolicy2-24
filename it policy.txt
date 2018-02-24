@@ -1,0 +1,7 @@
+Password Policy
+-every 3 months palit ng pw
+Password Format
+-Lowercase,Uppercase,special char
+-min: 8 char max:20 char
+-cyclical password prohibited
+-dont remember password
